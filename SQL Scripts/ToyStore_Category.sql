@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 5.6.24, for osx10.8 (x86_64)
+-- MySQL dump 10.13  Distrib 5.6.24, for osx10.9 (x86_64)
 --
 -- Host: localhost    Database: ToyStore
 -- ------------------------------------------------------
